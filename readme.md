@@ -38,21 +38,21 @@ The dashboard helps answer important production questions such as:
 
 ## Data Source Architecture
 
-MySQL + SQL Server → Power BI → Power BI Service
+SQL Server + MySQL → Power BI → Power BI Service
 
 ---
 
-## Why Both MySQL and SQL Server Were Used
+## Why Both SQL Server and MySQL Were Used
 
 This project reflects a practical reporting scenario where source systems changed during the reporting lifecycle.
 
 ### Initial Phase
 
-The production dataset was first connected through MySQL for reporting development.
+The production dataset was first connected through SQL Server for reporting development.
 
 ### Later Phase
 
-SQL Server was then used when the reporting source changed, allowing dashboard continuity across two relational databases.
+MySQL was then used when the reporting source changed, allowing dashboard continuity across two relational databases.
 
 This demonstrates practical adaptability in handling multiple database environments inside Power BI.
 
