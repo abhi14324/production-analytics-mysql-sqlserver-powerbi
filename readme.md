@@ -163,7 +163,7 @@ This project improved understanding of:
 
 ## Screenshots
 
-(Add screenshots here)
+![production-analytics-mysql-sqlserver-powerbi](screenshots)
 
 ---
 
