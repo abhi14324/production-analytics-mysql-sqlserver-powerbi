@@ -28,9 +28,13 @@ A production unit is facing a critical supply-demand imbalance where daily deman
 The Core Problems:
 
 📉 Supply is severely insufficient — Average daily demand (48.65 units) is nearly 2× the average daily availability (24.70 units)
+
 💸 Massive financial loss — Total loss of 8M against a profit of only 301K, a loss-to-profit ratio of ~26×
+
 📦 61K units of unmet demand — with no visibility into which products or time periods are most affected
+
 🔍 No unified dashboard — Operations and management teams have no single interface to track supply performance, product-level gaps, or daily loss trends
+
 ⏱️ Delayed decision-making — Without real-time reporting, corrective action on supply shortages cannot be taken quickly
 
 What This Project Solves:
